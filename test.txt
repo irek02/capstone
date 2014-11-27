@@ -1,5 +1,5 @@
 Content of the file.
 
 File modified in nn.
-Another modification.
+A
 
